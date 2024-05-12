@@ -1,7 +1,7 @@
 # 📒 Documentação do Projeto
 
 <p align="justify">
-  - Projeto desenvolvido para uma atividade durante meu período letivo do ensino médio, nesta atividade deveriamos criar uma landing page simples contendo informações sobre algum cantor, banda, artista ou personalidade famosa, utilizei a atividade para testes de alguns recursos novos para meu eu da época.
+  - Projeto desenvolvido para uma atividade durante meu período letivo do ensino médio, nesta atividade deveríamos criar uma landing page simples contendo informações sobre algum cantor, banda, artista ou personalidade famosa, utilizei a atividade para testes de alguns recursos novos para meu eu da época.
 </p>
 <br>
 
